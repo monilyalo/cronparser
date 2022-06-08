@@ -17,4 +17,9 @@ Link: https://github.com/monilyalo/cronparser
 ## Loom Video Record:
 
 Link: https://www.loom.com/share/b6114ac0a1d841bba3734d3a5ba9be3e
+## How it runs?
 
+node index.js "*/15 0 1,15 * 1-5 /usr/bin/find"
+
+
+<img width="804" alt="Screenshot 2022-06-08 at 5 26 23 PM" src="https://user-images.githubusercontent.com/60131759/172610451-8c53bd2d-63e9-409e-b8df-c02202c67fc9.png">
